@@ -1,0 +1,4 @@
+LunchBoxUI.MainActivity, LunchBoxUI;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
+LunchBoxUI.MainActivity, LunchBoxUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
+LunchBoxUI.MainActivity;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
+lunchboxui.MainActivity;md53d52751c2e3b07dc2b94167f3bf133b5.MainActivity
