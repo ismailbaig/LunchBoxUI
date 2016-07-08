@@ -24,7 +24,7 @@ namespace LunchBoxUI
             // and attach an event to it
             Button button = FindViewById<Button>(Resource.Id.btnSignIn);
 
-            button.Click += delegate { button.Text = string.Format("{0} in gerrit!", count++); };
+            button.Click += delegate { button.Text = string.Format("{0} in gerrit 2!", count++); };
         }
     }
 }
