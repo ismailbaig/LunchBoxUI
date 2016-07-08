@@ -34,5 +34,6 @@ D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\android\assets\System.Runtime.S
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\LunchBoxUI.csprojResolveAssemblyReference.cache
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\LunchBoxUI.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\bin\Debug\LunchBoxUI.dll.mdb
