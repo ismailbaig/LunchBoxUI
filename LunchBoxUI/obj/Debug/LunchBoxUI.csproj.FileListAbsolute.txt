@@ -35,5 +35,7 @@ D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\android\assets\System.ServiceMo
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\LunchBoxUI.csprojResolveAssemblyReference.cache
+D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\res\drawable\buttonsigninstyle.xml
+D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\res\drawable\buttonsignupstyle.xml
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\LunchBoxUI.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\bin\Debug\LunchBoxUI.dll.mdb
