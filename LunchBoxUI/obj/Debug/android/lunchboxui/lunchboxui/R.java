@@ -13,17 +13,24 @@ public final class R {
     public static final class drawable {
         public static final int buttonsigninstyle=0x7f020000;
         public static final int buttonsignupstyle=0x7f020001;
-        public static final int icon=0x7f020002;
+        public static final int edit_text_style=0x7f020002;
+        public static final int icon=0x7f020003;
+        public static final int mailsingup=0x7f020004;
     }
     public static final class id {
-        public static final int btnSignIn=0x7f050001;
-        public static final int btnSignUp=0x7f050003;
-        public static final int progressBar1=0x7f050004;
-        public static final int txtCreateAccount=0x7f050000;
-        public static final int txtOR=0x7f050002;
+        public static final int btnDialogEmail=0x7f050003;
+        public static final int btnSignIn=0x7f050005;
+        public static final int btnSignUp=0x7f050007;
+        public static final int progressBar1=0x7f050008;
+        public static final int txtCreateAccount=0x7f050004;
+        public static final int txtEmail=0x7f050001;
+        public static final int txtFirstName=0x7f050000;
+        public static final int txtOR=0x7f050006;
+        public static final int txtPassword=0x7f050002;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
+        public static final int dialog_sign_up=0x7f030000;
+        public static final int main=0x7f030001;
     }
     public static final class string {
         public static final int ApplicationName=0x7f040001;

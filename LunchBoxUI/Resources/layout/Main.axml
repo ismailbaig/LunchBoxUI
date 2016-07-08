@@ -50,7 +50,9 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:textSize="15sp"
-  android:background="@drawable/buttonSignUpStyle"/>
+        android:background="@drawable/buttonSignUpStyle"
+        android:height="@android:dimen/thumbnail_width"
+        android:drawableLeft="@drawable/mailsingup" />
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
