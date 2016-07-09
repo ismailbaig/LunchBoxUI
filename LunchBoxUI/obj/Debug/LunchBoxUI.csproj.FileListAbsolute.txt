@@ -15,6 +15,9 @@ D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\res\drawable\edit_text_style.xm
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\res\drawable\mailsingup.png
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\R.cs.flag
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\uploadflags.txt
+D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\res\values\styles.xml
+D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\res\anim\slide_up.xml
+D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\obj\Debug\res\anim\slide_right.xml
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\bin\Debug\LunchBoxUI.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\bin\Debug\Java.Interop.dll.mdb
 D:\RelatedToPrjt\LunchBoxUI\LunchBoxUI\bin\Debug\Mono.Android.dll.mdb

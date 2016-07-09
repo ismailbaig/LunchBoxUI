@@ -22,5 +22,12 @@ namespace LunchBoxUI
 
             return view;
         }
+
+        public override void OnActivityCreated(Bundle savedInstanceState)
+        {
+            Dialog.Window.RequestFeature(WindowFeatures.NoTitle);
+            base.OnActivityCreated(savedInstanceState);
+            Dialog.Window.Attributes.WindowAnimations = Resource.Style.dialog_animate;
+        }
     }
 }
